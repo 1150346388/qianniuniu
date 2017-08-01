@@ -1,0 +1,148 @@
+{
+  "message": "",
+  "code": 200,
+  "data": {
+    "page_title": "灵通宝 - B",
+    "property_id": "1221854",
+    "type": "8",
+    "type_desc": "资产类型",
+    "status": "1",
+    "status_desc": "资产状态",
+    "assets": "50,000.00",
+    "assets_desc": "持有资产(元)",
+    "yesterday_interest": "13.34",
+    "yesterday_interest_desc": "昨日收益(元)",
+    "img": "",
+    "img_desc": "资产图片",
+    "tip": "69 天后可免费转出",
+    "tip_desc": "资产小提示",
+    "transfer_tip": "",
+    "transfer_tip_desc": "",
+    "days": 21,
+    "days_desc": "持有天数",
+    "maintain": {
+      "status": false,
+      "message": ""
+    },
+    "rate": {
+      "range": [],
+      "current": 0
+    },
+    "description": {
+      "text": "转让变现说明",
+      "type": "link",
+      "url": "https://www.qianshengqian.com/mobile/app.html#/invest-cancel"
+    },
+    "detail": [
+      [
+        {
+          "name": "可取收益",
+          "value": "0.00",
+          "action": "",
+          "url": "",
+          "color": {
+            "name": "#7D7D7D",
+            "value": "#3C3C3C"
+          }
+        },
+        {
+          "name": "累计收益",
+          "value": "280.14",
+          "action": "",
+          "url": "",
+          "color": {
+            "name": "#7D7D7D",
+            "value": "#3C3C3C"
+          }
+        },
+        {
+          "name": "年化收益率",
+          "value": "8.00%",
+          "action": "",
+          "url": "",
+          "color": {
+            "name": "#7D7D7D",
+            "value": "#3C3C3C"
+          }
+        }
+      ],
+      [
+        {
+          "name": "起息日期",
+          "value": "2017-06-29",
+          "action": "",
+          "url": "",
+          "color": {
+            "name": "#7D7D7D",
+            "value": "#3C3C3C"
+          }
+        },
+        {
+          "name": "锁定期",
+          "value": "2017-09-27",
+          "action": "",
+          "url": "",
+          "color": {
+            "name": "#7D7D7D",
+            "value": "#3C3C3C"
+          }
+        },
+        {
+          "name": "已持有天数",
+          "value": "21天",
+          "action": "",
+          "url": "",
+          "color": {
+            "name": "#7D7D7D",
+            "value": "#3C3C3C"
+          }
+        }
+      ],
+      [
+        {
+          "name": "资金去向",
+          "value": "",
+          "action": "link",
+          "url": "https://www.qianshengqian.com/mobile/#/account-where/1221854",
+          "color": {
+            "name": "#7D7D7D",
+            "value": ""
+          }
+        }
+      ],
+      [
+        {
+          "name": "操作记录",
+          "value": "",
+          "action": "link",
+          "url": "https://www.qianshengqian.com/mobile/#/account/operation/transfer?i=1221854&c=transfer",
+          "color": {
+            "name": "#7D7D7D",
+            "value": "#FF5353"
+          }
+        }
+      ]
+    ],
+    "button": [
+      {
+        "text": "取出收益",
+        "enable": false,
+        "type": 2,
+        "color": {
+          "background": "#FF5353",
+          "foreground": "#FFFFFF"
+        }
+      },
+      {
+        "text": "债权转让",
+        "enable": true,
+        "type": 1,
+        "color": {
+          "background": "#FF5353",
+          "foreground": "#FFFFFF"
+        },
+        "message": ""
+      }
+    ]
+  }
+}

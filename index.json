@@ -1,0 +1,62 @@
+{
+  "message": "",
+  "code": 200,
+  "data": {
+    "page_title": "我的",
+    "isLogin": false,
+    "investment_tip": "",
+    "adv_img": "https://qsqweb-10000035.image.myqcloud.com/d470988c2a9355e7c240cf4ca10c3c27.png",
+    "header": {
+      "assets_name": "总资产(元)",
+      "assets_value_big": "0",
+      "assets_value_small": ".00",
+      "total_intesest_name": "昨日收益(元)",
+      "total_intesest_value_big": "0.00",
+      "total_intesest_value_small": "",
+      "message_num": 0,
+      "interest_show_type": {
+        "type": "native",
+        "url": ""
+      }
+    },
+    "agreement": [],
+    "uaccount": {
+      "name": "账户余额",
+      "img": "https://cdn.qianshengqian.com/asset/image/api3/wealth_balance.png",
+      "amount": "￥0.00",
+      "can_withdraw": false,
+      "withdraw_type": "4",
+      "withdraw_msg": "",
+      "withdraw_words": "提现",
+      "charge_words": "充值",
+      "color": {
+        "name": "#383838",
+        "amount": "#A5A5A5",
+        "withdraw_words": "#3C3C3C",
+        "charge_words": "#DA3F3A"
+      }
+    },
+    "middle": {
+      "bank_img": "https://cdn.qianshengqian.com/asset/image/api3/wealth_bank.png",
+      "bank_words": "银行卡",
+      "bank_message_num": 0,
+      "coupon_img": "https://cdn.qianshengqian.com/asset/image/api3/wealth_coupon.png",
+      "coupon_words": "优惠券",
+      "coupon_message_num": 0
+    },
+    "vaccount": {
+      "is_create": false,
+      "text": "你离10元抵用劵只差一步",
+      "text_color": "#ADADAD",
+      "img": "https://cdn.qianshengqian.com/asset/image/api3/vaccount_card.png",
+      "button": {
+        "text": "前去开户",
+        "color": "#59B159"
+      }
+    },
+    "wealth_top": {
+      "empty_dictionary": true
+    },
+    "wealth": []
+  }
+}

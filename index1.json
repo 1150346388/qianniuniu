@@ -1,0 +1,163 @@
+{
+  "message": "",
+  "code": 200,
+  "data": {
+    "page_title": "我的",
+    "isLogin": true,
+    "agreement": [],
+    "investment_type": "2",
+    "investment_tip": "",
+    "investment_img": "",
+    "investment_url": "",
+    "investment_button": "",
+    "header": {
+      "assets_name": "总资产(元)",
+      "assets_value_big": "111,300.00",
+      "assets_value_small": "",
+      "total_intesest_name": "昨日收益(元)",
+      "total_intesest_value_big": "25.12",
+      "total_intesest_value_small": "",
+      "message_num": 97,
+      "interest_show_type": {
+        "type": "native",
+        "url": ""
+      },
+      "user_info": {
+        "head_img_url": "https://qsqweb-10000035.image.myqcloud.com/3dd64c8f08e671c616cd2446129bb412.png",
+        "vip_level": "V2"
+      }
+    },
+    "uaccount": {
+      "name": "账户余额",
+      "img": "https://cdn.qianshengqian.com/asset/image/api3/wealth_balance.png",
+      "amount": "0.00元",
+      "can_withdraw": true,
+      "withdraw_type": "1",
+      "withdraw_msg": "",
+      "withdraw_words": "提现",
+      "charge_words": "充值",
+      "color": {
+        "name": "#383838",
+        "amount": "#3c3c3c",
+        "withdraw_words": "#3C3C3C",
+        "charge_words": "#DA3F3A"
+      }
+    },
+    "middle": {
+      "bank_img": "https://cdn.qianshengqian.com/asset/image/api3/wealth_bank.png?v=1",
+      "bank_words": "银行卡",
+      "bank_message_num": 0,
+      "coupon_img": "https://cdn.qianshengqian.com/asset/image/api3/wealth_coupon.png",
+      "coupon_words": "优惠券",
+      "coupon_message_num": 0
+    },
+    "vaccount": {
+      "is_create": true,
+      "text": "您还没开户，请去开户",
+      "text_color": "#ADADAD",
+      "img": "https://qsqweb-10000035.image.myqcloud.com/522a3834473830828b7a8727a53a8e1a.png",
+      "button": {
+        "text": "前去开户",
+        "color": "#59B159"
+      }
+    },
+    "wealth_top": {
+      "left": "当前持有",
+      "right": "历史记录",
+      "left_color": "#3C3C3C",
+      "right_color": "#9E9E9E"
+    },
+    "wealth": [
+      {
+        "id": "property112082",
+        "type": "current",
+        "status": 1,
+        "name": "灵活宝",
+        "product_type": "6",
+        "phase": "",
+        "tips": "随时可转",
+        "principal_fen": 990000,
+        "position": "9,900.00元",
+        "color": {
+          "name": "#9E9E9E",
+          "phase": "#9E9E9E",
+          "tips": "#9E9E9E",
+          "position": "#3C3C3C",
+          "revenue_name": "#9E9E9E",
+          "revenue_value": "#DD403B"
+        },
+        "revenue_name": "昨日收益",
+        "revenue_value": "1.79元",
+        "asset_detail_url": "https://www.qianshengqian.com/mobile/app.html#/account-details/property112082"
+      },
+      {
+        "id": "property1144602",
+        "type": "fixed",
+        "status": 1,
+        "name": "灵通宝 - A",
+        "product_type": "7",
+        "phase": "",
+        "tips": "随时可免费转让",
+        "principal_fen": 140000,
+        "position": "1,400.00元",
+        "color": {
+          "name": "#9E9E9E",
+          "phase": "#9E9E9E",
+          "tips": "#9E9E9E",
+          "position": "#3C3C3C",
+          "revenue_name": "#9E9E9E",
+          "revenue_value": "#DD403B"
+        },
+        "revenue_name": "昨日收益",
+        "revenue_value": "0.27元",
+        "asset_detail_url": "https://www.qianshengqian.com/mobile/app.html#/account-details/property1144602"
+      },
+      {
+        "id": "property1202865",
+        "type": "fixed",
+        "status": 1,
+        "name": "灵通宝 - A",
+        "product_type": "7",
+        "phase": "",
+        "tips": "剩余9天",
+        "principal_fen": 5000000,
+        "position": "50,000.00元",
+        "color": {
+          "name": "#9E9E9E",
+          "phase": "#9E9E9E",
+          "tips": "#9E9E9E",
+          "position": "#3C3C3C",
+          "revenue_name": "#9E9E9E",
+          "revenue_value": "#DD403B"
+        },
+        "revenue_name": "昨日收益",
+        "revenue_value": "9.72元",
+        "asset_detail_url": "https://www.qianshengqian.com/mobile/app.html#/account-details/property1202865"
+      },
+      {
+        "id": "property1221854",
+        "type": "fixed",
+        "status": 1,
+        "name": "灵通宝 - B",
+        "product_type": "8",
+        "phase": "",
+        "tips": "剩余77天",
+        "principal_fen": 5000000,
+        "position": "50,000.00元",
+        "color": {
+          "name": "#9E9E9E",
+          "phase": "#9E9E9E",
+          "tips": "#9E9E9E",
+          "position": "#3C3C3C",
+          "revenue_name": "#9E9E9E",
+          "revenue_value": "#DD403B"
+        },
+        "revenue_name": "昨日收益",
+        "revenue_value": "13.34元",
+        "asset_detail_url": "https://www.qianshengqian.com/mobile/app.html#/account-details/property1221854"
+      }
+    ],
+    "is_fixing": false,
+    "fixing_message": ""
+  }
+}
