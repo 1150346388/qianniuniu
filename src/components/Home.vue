@@ -88,6 +88,10 @@ export default {
 .el-carousel__indicators{
   bottom: 15px !important;
 }
+.el-carousel__item img{
+  height: 576px;
+  width: 100%;
+}
 .tags{
     height: 360px;
     width: 100%;

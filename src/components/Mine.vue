@@ -97,6 +97,7 @@
 <script>
 import ProductItem from './Product';
 import footerBar from '@/components/FooterBar'
+import router from '../router'
 
 export default {
   name: 'mine',
@@ -109,13 +110,15 @@ export default {
   created(){
    this.$http.get('/api3/wealth/index').then((res) => {
      this.profile = res.body.data;
-     console.log(Boolean(localStorage.hideAccont) ? true : false);
    });
   },
   methods:{
     hideAccontFun(v){
       this.hideAccont = !v;
       localStorage.hideAccont = !v;
+    },
+    jump(i){
+      router.push(i==1?'/account/withdraw':'/account/recharge')
     }
   },
   components: {
@@ -154,11 +157,12 @@ export default {
     background-color: #f4a933;
     color: #fff;
     font-size: 25px;
-    position: absolute;
+    position: relative;
     text-align: center;
     border-radius: .18rem;
-    top: .64rem;
-    left: .72rem;
+    bottom: 0.05rem;
+    right: .52rem;
+    display: inline-block;
 }
 .user a{
     flex: 1;
@@ -182,18 +186,22 @@ export default {
   text-align: right;
   padding: .2rem .4rem;
 }
+.info img{
+   float: right;
+}
 .info i{
     background-color: #fff;
     border-radius: 50%;
-    font-size: 28px;
-    width: .42rem;
-    height: .42rem;
+    font-size: 32px;
+    width: 0.42rem;
+    height: 0.42rem;
     line-height: .42rem;
     text-align: center;
-    position: absolute;
-    top: .1rem;
-    right: .2rem;
+    position: relative;
+    bottom: 0.5rem;
+    left: .65rem;
     color: #e33133;
+    display: inline-block;
 }
 .fl{
   float: left;
@@ -218,7 +226,7 @@ export default {
 .account-balance-title{
   font-size: .475rem;
   text-align: left;
-  padding: .4rem .4rem 0;
+  padding: .4rem .6rem 0;
 }
  ul{
   margin: 0;
@@ -246,7 +254,7 @@ export default {
 }
 .account-mine .icon-left{
   background-size: auto .34rem;
-  padding-right: .4rem;
+  padding: 0 .6rem;
 }
 .account-mine .fr a{
     display: inline-block;
@@ -299,6 +307,7 @@ li .sub{
     padding: .2rem;
     border-bottom: 1px solid #efeff4;
     font-size: .425rem;
+    position: relative;
 }
 .account-list ul{
   padding: 0;

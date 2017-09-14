@@ -15,6 +15,7 @@ html,body{
   height: 100%;
   margin:0;
   background: #efeff4;
+  text-align: center;
 }
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
@@ -22,7 +23,7 @@ html,body{
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin: 0px;
+  margin: auto;
   height: 100%;
   max-width: 1000px;
 }
@@ -34,6 +35,7 @@ html,body{
   background: #fafafa;
   border-top: 1px solid #ddd;
   height: 1rem;
+  max-width: 1000px;
 }
 .nav{
   display: inline-block;
@@ -53,9 +55,8 @@ html,body{
     box-shadow: 0 -6px 14px #333;
     position: fixed;
     top: 0;
-    left: 0;
-    right: 0;
     z-index: 6;
+    max-width: 1000px;
 }
 .header .el-icon-arrow-left{
     position: absolute;
@@ -72,6 +73,8 @@ a,a:hover{
 }
 ul{
   list-style: none;
+  padding: 0;
+  margin:0;
 }
 em,i{
   font-style: normal;
@@ -96,5 +99,13 @@ input, textarea {
     background-position-x: .2rem;
     padding-left: .75rem;
     background-size: .45rem;
+}
+a, article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+button, input, textarea {
+    outline: none;
+    border: 0;
+    resize: none;
 }
 </style>

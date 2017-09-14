@@ -1,0 +1,121 @@
+{
+  "message": "",
+  "code": 200,
+  "data": {
+    "limit": "今日还可提现 2 次",
+    "max_withdraw": 0,
+    "place_holder": "可提金额 0 元",
+    "receiving_date": "",
+    "balance_desc": "可用余额：0.00元",
+    "bank_cards": [
+      {
+        "id": 515788,
+        "bank_name": "招商银行",
+        "bank_icon": "CMB",
+        "bank_code": "CMB",
+        "card_type": "储蓄卡",
+        "card_desc": "（尾号 6372 储蓄卡）",
+        "card_desc_simple": "（尾号6372）",
+        "bank_background": "https://cdn.qianshengqian.com/asset/image/api3/banks/cmb.png",
+        "bank_icon_img": "https://cdn.qianshengqian.com/asset/image/api3/banks/cmb_icon.png",
+        "bank_icon_small": "https://cdn.qianshengqian.com/asset/image/api3/banks/cmb_small.png",
+        "bank_img": "https://cdn.qianshengqian.com/asset/image/bank_icon/cmb.png",
+        "prefix": 6214,
+        "suffix": "6372",
+        "card_withdraw_limit": "77,682.57",
+        "card_withdraw_title": "该卡提现额度：77,682.57元",
+        "withdraw_rule_url": "https://www.qianshengqian.com/mobile//#/bankcard-introd",
+        "card_mobile": "185****3576",
+        "restrict": {
+          "single_purchase": "5万",
+          "single_day": "150万",
+          "single_month": "1500万",
+          "purchase_limit": 50000,
+          "desc": "单笔限额5万 当日限额150万"
+        },
+        "bank_name_suffix": "招商银行(6372)",
+        "verified": true,
+        "card_tips": "",
+        "pay_password": true
+      },
+      {
+        "id": 452121,
+        "bank_name": "浦东发展银行",
+        "bank_icon": "SPDB",
+        "bank_code": "SPDB",
+        "card_type": "储蓄卡",
+        "card_desc": "（尾号 6622 储蓄卡）",
+        "card_desc_simple": "（尾号6622）",
+        "bank_background": "https://cdn.qianshengqian.com/asset/image/api3/banks/spdb.png",
+        "bank_icon_img": "https://cdn.qianshengqian.com/asset/image/api3/banks/spdb_icon.png",
+        "bank_icon_small": "https://cdn.qianshengqian.com/asset/image/api3/banks/spdb_small.png",
+        "bank_img": "https://cdn.qianshengqian.com/asset/image/bank_icon/spdb.png",
+        "prefix": 6217,
+        "suffix": "6622",
+        "card_withdraw_limit": "24,002.26",
+        "card_withdraw_title": "该卡提现额度：24,002.26元",
+        "withdraw_rule_url": "https://www.qianshengqian.com/mobile//#/bankcard-introd",
+        "card_mobile": "185****3576",
+        "restrict": {
+          "single_purchase": "10万",
+          "single_day": "20万",
+          "single_month": "1500万",
+          "purchase_limit": 100000,
+          "desc": "单笔限额10万 当日限额20万"
+        },
+        "bank_name_suffix": "浦东发展银行(6622)",
+        "verified": true,
+        "card_tips": "",
+        "pay_password": true
+      },
+      {
+        "id": 496067,
+        "bank_name": "交通银行",
+        "bank_icon": "COMM",
+        "bank_code": "COMM",
+        "card_type": "储蓄卡",
+        "card_desc": "（尾号 7522 储蓄卡）",
+        "card_desc_simple": "（尾号7522）",
+        "bank_background": "https://cdn.qianshengqian.com/asset/image/api3/banks/comm.png",
+        "bank_icon_img": "https://cdn.qianshengqian.com/asset/image/api3/banks/comm_icon.png",
+        "bank_icon_small": "https://cdn.qianshengqian.com/asset/image/api3/banks/comm_small.png",
+        "bank_img": "https://cdn.qianshengqian.com/asset/image/bank_icon/comm.png",
+        "prefix": 6222,
+        "suffix": "7522",
+        "card_withdraw_limit": "13,237.17",
+        "card_withdraw_title": "该卡提现额度：13,237.17元",
+        "withdraw_rule_url": "https://www.qianshengqian.com/mobile//#/bankcard-introd",
+        "card_mobile": "185****3576",
+        "restrict": {
+          "single_purchase": "1万",
+          "single_day": "1万",
+          "single_month": "500万",
+          "purchase_limit": 9999,
+          "desc": "单笔限额1万 当日限额1万"
+        },
+        "bank_name_suffix": "交通银行(7522)",
+        "verified": true,
+        "card_tips": "",
+        "pay_password": true
+      }
+    ],
+    "bind_info": "添加银行卡",
+    "rule": "1. 06:00-24:00点提现，5万以下平均2小时到账，0:00-6:00之间提现，5万以下将在当日9:00前到账，一次提现5万以上将在24小时内到账；\n2. 提现额度会根据该卡的充值和提现金额实时变化，因此不会影响您的正常提现使用；\n3. 提现免手续费，每日最多可提现三次；\n4. 提现受央行转账系统的影响可能存在到账慢的情况，敬请谅解。如有疑问请随时拨打客服电话4001-365-288。",
+    "withdraw_rule_url": "https://www.qianshengqian.com/mobile/app.html#/transfer-specification",
+    "picc": {
+      "words": "账户资金存管至恒丰银行",
+      "color": "#4F9BE9",
+      "link": "https://www.qianshengqian.com/mobile//?v=b5c985d2b44fe5efmobile/#/about-guaran"
+    },
+    "button": {
+      "enable": true,
+      "text": "提现",
+      "color": "#DB3738",
+      "show_notice": false,
+      "button_notice": {
+        "empty_dictionary": true
+      }
+    },
+    "fee_desc": "提现免手续费"
+  }
+}

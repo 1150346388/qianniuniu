@@ -1,5 +1,5 @@
 <template>
-<div class="header"><a class="goBack" @click="goBack()" v-show="hasBack"></a><h4>{{titleText}}</h4></div>
+<div class="header"><a class="goBack" @click="goBack()" v-show="hasBack"></a><h4>{{titleText}}</h4><span class="right" @click="rightHadler.rightClick()">{{titleRight}}</span></div>
 </template>
 <script>
 import router from '../router'
@@ -12,8 +12,17 @@ export default {
     },
     titleText:{
       type: String
+    },
+    rightHadler:{
+      type: Object
+    },
+    titleRight:{
+      type: String
     }
-},methods:{
+},
+created(){
+},
+methods:{
     goBack:()=>{
       router.go(-1)
     }
@@ -31,5 +40,13 @@ export default {
     top: 0;
     left: 0;
     display: inline-block
+}
+.right{
+    position: absolute;
+    top: 0;
+    right: 0.25rem;
+    display: inline-block;
+    font-size: .375rem;
+    color: #fff;
 }
 </style>

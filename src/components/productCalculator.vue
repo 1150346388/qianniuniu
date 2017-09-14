@@ -43,6 +43,9 @@
   			days:JSON.parse(localStorage.calculatorData).days
   		}
   	},
+    mounted(){
+      scrollTo(0,0)
+    },
   	methods:{
   		_countNum(amount,days){
          return JSON.parse(localStorage.calculatorData).interestFormula

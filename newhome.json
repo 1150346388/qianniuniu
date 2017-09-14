@@ -10,27 +10,21 @@
         "target": ""
       },
       {
-        "id": "582",
-        "url": "https://www.qianshengqian.com/mobile/active/newbie161111/#/index.html?user_token=",
-        "img": "https://qsqweb-10000035.image.myqcloud.com/129db214f0cac33c80a6882352612f9f.png",
+        "id": "615",
+        "url": "https://www.qianshengqian.com/activity2/light3/#/index?user_token=",
+        "img": "https://qsqweb-10000035.image.myqcloud.com/770fe2682f2ac95888f02d3db9080673.png",
         "target": "self"
       },
       {
-        "id": "564",
-        "url": "https://www.qianshengqian.com/mobile/active/invest_cowList/#/index?user_token=",
-        "img": "https://qsqweb-10000035.image.myqcloud.com/a28994587d27aed80c090181bec2d2a2.png",
+        "id": "613",
+        "url": "https://www.qianshengqian.com/activity2/landing/index.html?user_token=",
+        "img": "https://qsqweb-10000035.image.myqcloud.com/88745c4b72d9c7fc55152d88aa7770c8.png",
         "target": "self"
       },
       {
-        "id": "580",
-        "url": "http://dwz.cn/66Ht2M?user_token=",
-        "img": "https://qsqweb-10000035.image.myqcloud.com/4116c0f48e9361ef737d0e15ea3811a4.png",
-        "target": "self"
-      },
-      {
-        "id": "577",
-        "url": "http://mp.weixin.qq.com/s/d9vt9_MkPCssJEYg2WIsvQ?user_token=",
-        "img": "https://qsqweb-10000035.image.myqcloud.com/ee6b2a09e743671e73844987e747f765.png",
+        "id": "614",
+        "url": "http://mp.weixin.qq.com/s/kXOO87cvlazRpHa8g3bOcQ?user_token=",
+        "img": "https://qsqweb-10000035.image.myqcloud.com/69b8cd5116f978b1ad97425dae695f64.png",
         "target": "self"
       }
     ],
@@ -58,16 +52,18 @@
     ],
     "hot": [
       {
-        "img": "https://cdn.qianshengqian.com/asset/image/api3/icons/api_version_one_1.png?version=2",
+        "img": "https://cdn.qianshengqian.com/asset/image/api3/icons/api_version_anniversary_1.png?version=2",
+        "float_img": "",
         "url": "https://www.qianshengqian.com/mobile/active/may_invita_gift/#/index",
         "title": "邀请有礼",
         "title_color": "#575757",
         "jump_id": 0,
-        "need_login": true,
+        "need_login": false,
         "cid": "9001001001"
       },
       {
-        "img": "https://cdn.qianshengqian.com/asset/image/api3/icons/api_version_one_5.png?version=2",
+        "img": "https://cdn.qianshengqian.com/asset/image/api3/icons/api_version_anniversary_2.png?version=2",
+        "float_img": "",
         "url": "https://www.qianshengqian.com/mobile/active/mission/#/index",
         "title": "新手任务",
         "title_color": "#575757",
@@ -76,8 +72,9 @@
         "cid": "9001001023"
       },
       {
-        "img": "https://cdn.qianshengqian.com/asset/image/api3/icons/api_version_one_3.png?version=2",
-        "url": "https://www.qianshengqian.com/que/about.html#!/about",
+        "img": "https://cdn.qianshengqian.com/asset/image/api3/icons/api_version_anniversary_3.png?version=2",
+        "float_img": "https://cdn.qianshengqian.com/asset/image/api3/icons/api_version_one_3_float_img.png",
+        "url": "https://www.qianshengqian.com/activity2/que/#/index",
         "title": "平台介绍",
         "title_color": "#575757",
         "jump_id": 0,
@@ -85,7 +82,8 @@
         "cid": "9001001004"
       },
       {
-        "img": "https://cdn.qianshengqian.com/asset/image/api3/icons/api_version_one_4.png?version=2",
+        "img": "https://cdn.qianshengqian.com/asset/image/api3/icons/api_version_anniversary_4.png?version=2",
+        "float_img": "",
         "url": "https://www.qianshengqian.com/api3/m/shakeinit?from_app=1&user_token=",
         "title": "摇一摇",
         "title_color": "#575757",
@@ -95,19 +93,19 @@
       }
     ],
     "invest": {
-      "invest_num": "2,180,481",
-      "invest_total": "13,758,692,634.47",
+      "invest_num": "2,552,423",
+      "invest_total": "16,756,369,234.47",
       "invest_times": {
-        "times": "2,180,481",
+        "times": "2,552,423",
         "click": true,
-        "url": "https://www.qianshengqian.com/que/data.html#!/operation/data"
+        "url": "https://www.qianshengqian.com/activity2/que/#/data"
       },
       "invest_amont": {
-        "amount": "13,758,692,634.47",
+        "amount": "16,756,369,234.47",
         "click": false,
         "url": ""
       },
-      "invest_url": "https://www.qianshengqian.com/que/data.html#!/operation/data"
+      "invest_url": "https://www.qianshengqian.com/activity2/que/#/data"
     },
     "products": [
       {
@@ -158,13 +156,14 @@
               "back_color": "#747474"
             },
             "has_title": "1",
-            "today_num": "37017",
+            "today_num": "57220",
             "img": "",
             "status": 1,
             "min_buy": "100起投",
             "max_buy": "20,000.00",
             "min_buy_amount": "100",
             "is_vip_product": false,
+            "is_activity_product": false,
             "vip_img": "",
             "is_prebuy": "0",
             "sell_out_img": "",
@@ -230,13 +229,14 @@
               "back_color": "#747474"
             },
             "has_title": "1",
-            "today_num": "157505",
+            "today_num": "243928",
             "img": "",
             "status": 1,
             "min_buy": "500起投",
             "max_buy": "0.00",
             "min_buy_amount": "500",
             "is_vip_product": false,
+            "is_activity_product": false,
             "vip_img": "",
             "is_prebuy": "0",
             "sell_out_img": "",

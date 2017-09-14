@@ -74,6 +74,7 @@ var profile1 = require('../index1.json');
 var loginJson = require('../login.json');
 var buyJsons = require('../buyDetail.json');
 var wealthJsons = require('../wealthDetail.json');
+var withdraw = require('../withdraw.json');
 
 router.get('/home/newhome', function (req, res) {
   res.json(homeData);
@@ -94,6 +95,9 @@ router.get('/wealth/index',function(req, res){
 });
 router.get('/wealth/detail',function(req, res){
   res.json(wealthJsons);
+});
+router.get('/transaction/willWithdraw',function(req, res){
+  res.json(withdraw);
 });
 router.post('/auth/login',function(req, res){
   res.json(loginJson);

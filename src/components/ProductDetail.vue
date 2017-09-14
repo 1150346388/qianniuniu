@@ -45,6 +45,9 @@ export default {
     this.calculatorData = {"type":res.body.data.type,"days":res.body.data.days,"serviceFeeRate":res.body.data.service_fee_rate,"interestFormula":res.body.data.interest_formula,"serviceFeeDesc":res.body.data.service_fee_desc,"rateRange":res.body.data.rate_range,"calDesc":res.body.data.cal_desc};
    });
   },
+  mounted(){
+    scrollTo(0,0)
+  },
   components:{
     Calculator,
     TopBar:topBar

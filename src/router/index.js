@@ -9,6 +9,7 @@ import AccountDetail from '@/components/AccountDetail'
 import productCalculator from '@/components/productCalculator'
 import Login from '@/components/login'
 import Register from '@/components/register'
+import Withdraw from '@/components/Withdraw'
 
 const routes = [
     {
@@ -49,6 +50,10 @@ const routes = [
       path:'/product-calculator',
       name:'product-calculator',
       component: productCalculator
+    },{
+      path:'/account/withdraw',
+      name:'withdraw',
+      component: Withdraw
     }
   ];
   
