@@ -296,9 +296,11 @@ li .sub{
   display: inline-block;
 }
 .account-list .left{
+  float: left;
   text-align: left;
 }
 .account-list .right{
+  float: right;
   text-align: right;
 }
 .account-list li{

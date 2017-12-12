@@ -5,38 +5,42 @@
     "banners": [
       {
         "id": "1",
-        "url": "https://www.qianshengqian.com/mobile/active/newbie161111/#/index.html",
-        "img": "https://qsqweb-10000035.image.myqcloud.com/d49fdc973c39c16bb184446bdc595b86.png",
+        "url": "https://www.qianshengqian.com/activity2/new-user/#/index",
+        "img": "https://qsqweb-10000035.image.myqcloud.com/7a147bf12471a1c860303358498d2111.png",
+        "img_x": "https://qsqweb-10000035.image.myqcloud.com/e1276a9c31250145e9beeb699095560f.png",
         "target": ""
       },
       {
-        "id": "615",
-        "url": "https://www.qianshengqian.com/activity2/light3/#/index?user_token=",
-        "img": "https://qsqweb-10000035.image.myqcloud.com/770fe2682f2ac95888f02d3db9080673.png",
+        "id": "640",
+        "url": "https://www.qianshengqian.com/activity2/luckday/#/detail/1212",
+        "img": "https://qsqweb-10000035.image.myqcloud.com/819df6a34523e7891ac7f45160b0d746.png",
+        "img_x": "https://qsqweb-10000035.image.myqcloud.com/819df6a34523e7891ac7f45160b0d746.png",
         "target": "self"
       },
       {
-        "id": "613",
-        "url": "https://www.qianshengqian.com/activity2/landing/index.html?user_token=",
-        "img": "https://qsqweb-10000035.image.myqcloud.com/88745c4b72d9c7fc55152d88aa7770c8.png",
+        "id": "637",
+        "url": "https://www.qianshengqian.com/activity2/commonweal/#/one-period",
+        "img": "https://qsqweb-10000035.image.myqcloud.com/8bbf1657ce9f68617f7b1b7c89040c13.png",
+        "img_x": "https://qsqweb-10000035.image.myqcloud.com/d2958560f31b70a90f5b6cb69612cf1d.png",
         "target": "self"
       },
       {
-        "id": "614",
-        "url": "http://mp.weixin.qq.com/s/kXOO87cvlazRpHa8g3bOcQ?user_token=",
-        "img": "https://qsqweb-10000035.image.myqcloud.com/69b8cd5116f978b1ad97425dae695f64.png",
+        "id": "580",
+        "url": "http://dwz.cn/66Ht2M",
+        "img": "https://qsqweb-10000035.image.myqcloud.com/4116c0f48e9361ef737d0e15ea3811a4.png",
+        "img_x": "https://qsqweb-10000035.image.myqcloud.com/4116c0f48e9361ef737d0e15ea3811a4.png",
         "target": "self"
       }
     ],
     "news": [
       {
         "news_title": "钱牛牛获京东金融B+轮战略融资",
-        "news_url": "http://mp.weixin.qq.com/s/d9vt9_MkPCssJEYg2WIsvQ",
+        "news_url": "http://mp.weixin.qq.com/s?__biz=MzU0NjExODQ2Ng==&amp;mid=2247485482&amp;idx=1&amp;sn=dab8a7d0eda58328c6205bfaad8c8fe7",
         "news_title_color": "#89612E"
       },
       {
         "news_title": "钱牛牛受邀出席2016年世界互联网大会",
-        "news_url": "http://mp.weixin.qq.com/s?__biz=MjM5NDQxNDMyOA==&mid=2651593484&idx=2&sn=2068d9d2001a351d9091b1628787693b&chksm=bd70909b8a07198db6ff28b00284d798f4497e20f8c4cdbc502756f51382fb21082f97cbd932&scene=4#wechat_redirect",
+        "news_url": "http://mp.weixin.qq.com/s?__biz=MzUyMTExNzAyNA==&amp;mid=2247491100&amp;idx=2&amp;sn=036f8278bf38cfd42f343460aeae2e3d",
         "news_title_color": "#89612E"
       },
       {
@@ -52,7 +56,7 @@
     ],
     "hot": [
       {
-        "img": "https://cdn.qianshengqian.com/asset/image/api3/icons/api_version_anniversary_1.png?version=2",
+        "img": "https://cdn.qianshengqian.com/asset/image/api3/icons/api_version_one_1.png?version=2",
         "float_img": "",
         "url": "https://www.qianshengqian.com/mobile/active/may_invita_gift/#/index",
         "title": "邀请有礼",
@@ -62,7 +66,7 @@
         "cid": "9001001001"
       },
       {
-        "img": "https://cdn.qianshengqian.com/asset/image/api3/icons/api_version_anniversary_2.png?version=2",
+        "img": "https://cdn.qianshengqian.com/asset/image/api3/icons/api_version_one_5.png?version=2",
         "float_img": "",
         "url": "https://www.qianshengqian.com/mobile/active/mission/#/index",
         "title": "新手任务",
@@ -72,7 +76,7 @@
         "cid": "9001001023"
       },
       {
-        "img": "https://cdn.qianshengqian.com/asset/image/api3/icons/api_version_anniversary_3.png?version=2",
+        "img": "https://cdn.qianshengqian.com/asset/image/api3/icons/api_version_one_3.png?version=2",
         "float_img": "https://cdn.qianshengqian.com/asset/image/api3/icons/api_version_one_3_float_img.png",
         "url": "https://www.qianshengqian.com/activity2/que/#/index",
         "title": "平台介绍",
@@ -82,7 +86,7 @@
         "cid": "9001001004"
       },
       {
-        "img": "https://cdn.qianshengqian.com/asset/image/api3/icons/api_version_anniversary_4.png?version=2",
+        "img": "https://cdn.qianshengqian.com/asset/image/api3/icons/api_version_one_4.png?version=2",
         "float_img": "",
         "url": "https://www.qianshengqian.com/api3/m/shakeinit?from_app=1&user_token=",
         "title": "摇一摇",
@@ -93,26 +97,33 @@
       }
     ],
     "invest": {
-      "invest_num": "2,552,423",
-      "invest_total": "16,756,369,234.47",
+      "invest_num": "3,005,654",
+      "invest_total": "20,471,142,734.47",
       "invest_times": {
-        "times": "2,552,423",
+        "times": "3,005,654",
         "click": true,
-        "url": "https://www.qianshengqian.com/activity2/que/#/data"
+        "url": "https://www.qianshengqian.com/activity2/que/#/data171201"
       },
       "invest_amont": {
-        "amount": "16,756,369,234.47",
+        "amount": "20,471,142,734.47",
         "click": false,
         "url": ""
       },
-      "invest_url": "https://www.qianshengqian.com/activity2/que/#/data"
+      "invest_url": "https://www.qianshengqian.com/activity2/que/#/data171201"
+    },
+    "float_entry": {
+      "is_show": true,
+      "type": "web",
+      "img_url": "https://qsqweb-10000035.image.myqcloud.com/d2399b747709b483f502240cfc025490.png",
+      "target": "https://www.qianshengqian.com/mobile/active/mission/#/index",
+      "need_login": true
     },
     "products": [
       {
         "cat_color": "",
-        "cat_title": "新手宝",
+        "cat_title": "新手宝计划",
         "cat_title_desc": {
-          "front": "新手宝",
+          "front": "新手宝计划",
           "back": "",
           "front_color": "#333333",
           "back_color": "#747474"
@@ -148,15 +159,15 @@
             },
             "bid": "9001002006020010",
             "float_type": 1,
-            "title": "新手宝",
+            "title": "新手宝计划",
             "title_description": {
-              "front": "新手宝",
+              "front": "新手宝计划",
               "back": "",
               "front_color": "#383838",
               "back_color": "#747474"
             },
             "has_title": "1",
-            "today_num": "57220",
+            "today_num": "74314",
             "img": "",
             "status": 1,
             "min_buy": "100起投",
@@ -183,9 +194,9 @@
       },
       {
         "cat_color": "",
-        "cat_title": "灵通宝 - A",
+        "cat_title": "牛牛公益 - 1计划",
         "cat_title_desc": {
-          "front": "灵通宝 - A",
+          "front": "牛牛公益 - 1计划",
           "back": "",
           "front_color": "#333333",
           "back_color": "#747474"
@@ -195,20 +206,20 @@
         "desc_color": "#9E9E9E",
         "title_desc": "",
         "title_desc_color": "",
-        "show_img": "",
+        "show_img": "https://qsqweb-10000035.image.myqcloud.com/6b61f0ad2516d714ce22639da45e6aae.png",
         "records": [
           {
             "type": "1",
-            "p_type": "7",
-            "pid": "20007",
-            "middle_title": "可随时转让",
-            "middle_desc": "持有30天后",
-            "lock_days": 30,
-            "detail_url": "https://www.qianshengqian.com/mobile/#/product-details/20007?ptype=7&is_vip=0",
+            "p_type": "8",
+            "pid": "20030",
+            "middle_title": "可转让",
+            "middle_desc": "持有90天后",
+            "lock_days": 90,
+            "detail_url": "https://www.qianshengqian.com/mobile/#/product-active-detail/20030?ptype=8&is_vip=6",
             "right_title": "",
-            "right_desc": "持有30天后可随时转让",
+            "right_desc": "持有90天后可转让",
             "button": "立即投资",
-            "cid": "9001002021020007",
+            "cid": "9001002013020030",
             "color": {
               "title_color": "#383838",
               "rate": "#E33133",
@@ -219,17 +230,17 @@
               "right_desc": "",
               "rate_add_color": "#FFFFFF"
             },
-            "bid": "9001002022020007",
+            "bid": "9001002014020030",
             "float_type": 1,
-            "title": "灵通宝 - A",
+            "title": "牛牛公益 - 1计划",
             "title_description": {
-              "front": "灵通宝 - A",
+              "front": "牛牛公益 - 1计划",
               "back": "",
               "front_color": "#383838",
               "back_color": "#747474"
             },
             "has_title": "1",
-            "today_num": "243928",
+            "today_num": "2719",
             "img": "",
             "status": 1,
             "min_buy": "500起投",
@@ -240,13 +251,13 @@
             "vip_img": "",
             "is_prebuy": "0",
             "sell_out_img": "",
-            "rate": "7.00",
+            "rate": "7.50",
             "rate_desc": "历史年化收益率",
             "rate_range": [],
             "rate_add": "",
             "rate_add_value": 0,
             "rate_add_desc": "加息利率",
-            "min_rate_integer": "7.00",
+            "min_rate_integer": "7.50",
             "min_rate_decimal": "%",
             "max_rate_integer": "",
             "max_rate_decimal": "",

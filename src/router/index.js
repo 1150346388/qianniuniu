@@ -10,6 +10,7 @@ import productCalculator from '@/components/productCalculator'
 import Login from '@/components/login'
 import Register from '@/components/register'
 import Withdraw from '@/components/Withdraw'
+import BankCard from '@/components/BankCard'
 
 const routes = [
     {
@@ -31,6 +32,12 @@ const routes = [
     },{
       path: '/register',
       component: Register
+    },{
+      path: '/bankcard',
+      meta: {
+            requireAuth: true,  // 添加该字段，表示进入这个路由是需要登录的
+      },
+      component: BankCard
     },{
       path:'/product-detail/:pid',
       name:'product-detail',

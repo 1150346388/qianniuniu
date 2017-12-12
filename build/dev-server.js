@@ -75,12 +75,16 @@ var loginJson = require('../login.json');
 var buyJsons = require('../buyDetail.json');
 var wealthJsons = require('../wealthDetail.json');
 var withdraw = require('../withdraw.json');
+var bankcards = require('../bankCards.json')
 
 router.get('/home/newhome', function (req, res) {
   res.json(homeData);
 });
 router.get('/products/productTab', function (req, res) {
   res.json(productData);
+});
+router.get('/accounts/bankcards', function (req, res) {
+  res.json(bankcards);
 });
 router.get('/products/detail',function(req, res){
   let pid = "id"+req.query.pid;

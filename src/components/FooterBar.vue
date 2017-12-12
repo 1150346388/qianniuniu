@@ -18,7 +18,7 @@ export default {
  	height: .5rem;
     display: block;
     width: 100%;
-    background-position-x: 1.27rem !important;
+    background-position-x: 1.15rem !important;
     background-position-y: .1rem !important;
  }
  .nav.home{

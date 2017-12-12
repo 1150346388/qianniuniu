@@ -50,10 +50,11 @@ export default {
 }
 .calculator-btn-icon{
   display: inline-block;
-  width: 13%;
-  background-color: #fff;
-  float: left;
+  width: 15%;
   margin-top: 0.07rem;
+  position: absolute;
+  left: 0;
+  top: -0.5rem;
 }
 .calculator-btn-icon img{
     width: 70%;
